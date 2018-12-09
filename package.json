@@ -1,7 +1,7 @@
 {
-  "name": "vue-cli",
-  "description": "A Vue.js project",
-  "author": "Maximilian Schwarzmüller <mblacky0@gmail.com>",
+  "name": "quote-creator",
+  "description": "The application allows you to add or delete up to 10 quotes. All is front-end. No backend to save the quotes",
+  "author": "André Larsen <andrewsondergaard@gmail.com>",
   "private": true,
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack-dev-server --open --inline --hot",
