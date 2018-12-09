@@ -1,6 +1,6 @@
-# vue-cli
+# quote-creator
 
-> A Vue.js project
+> The application allows you to add or delete up to 10 quotes. All is front-end. No backend to save the quotes
 
 ## Build Setup
 
